@@ -12,6 +12,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ender-tekin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ender-tekin/" height="30" width="120" /></a>
 </p>
 
-![size="40px"](https://giffiles.alphacoders.com/417/4177.gif)
+![size="40px"](https://giffiles.alphacoders.com/118/118783.gif)
 
 
