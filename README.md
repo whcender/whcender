@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ender Tekin</h1>
 <h3 align="center">A passionate blokchain developer ⛓️ from Turkey</h3>
 
-- 🔭 I’m currently working on **smart contrat**
+- ⚔️ I’m currently working on **smart contrat**
 
-- 🌱 I’m currently learning **React js, Node Js Solidty**
+- 🚀 I’m currently learning **React js, Node Js Solidty**
 
-- 📫 How to reach me **heilender31@gmail.com**
+- 💻 How to reach me **heilender31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
