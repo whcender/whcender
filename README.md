@@ -12,11 +12,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ender-tekin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ender-tekin/" height="30" width="120" /></a>
 </p>
 
-![](https://www.icegif.com/wp-content/uploads/2022/02/icegif-163.gif)
+![size="40px"](https://www.icegif.com/wp-content/uploads/2022/02/icegif-163.gif)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whcender&show_icons=true&locale=en&layout=compact" alt="whcender" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whcender&show_icons=true&locale=en" alt="whcender" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whcender&" alt="whcender" /></p>
