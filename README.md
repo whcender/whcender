@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ender Tekin</h1>
-<h3 align="center">A passionate blokchain developer and NFT maker ⛓️ from Turkey</h3>
+<h3 align="center">A passionate blokchain developer and NFT maker ⛓️ from Turkey 🇹🇷</h3>
 
 - ⚔️ I’m currently working on **smart contrat**
 
