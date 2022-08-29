@@ -16,6 +16,6 @@
 <br>
 <br>
 
-<div display="flex" justify-content= "center" align-items="center">
+<div display="flex" justify-content="center" align-items="center">
 <img width="1000px" src="https://giffiles.alphacoders.com/118/118783.gif">
 </div>
