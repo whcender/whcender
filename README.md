@@ -3,7 +3,7 @@
 
 - ⚔️ I’m currently working on **smart contrat**
 
-- 🚀 I’m currently learning **React js, Node Js Solidty**
+- 🚀 I’m currently learning **React js, Node Js AND Solidty**
 
 - 💻 How to reach me **heilender31@gmail.com**
 
