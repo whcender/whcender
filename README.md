@@ -15,6 +15,6 @@
 
 ![width="140px" align="center"](https://giffiles.alphacoders.com/118/118783.gif)
 
-<img src="https://giffiles.alphacoders.com/118/118783.gif"></img>
+<img align="center" src="https://giffiles.alphacoders.com/118/118783.gif">
 
 
