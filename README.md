@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ender-tekin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ender-tekin/" height="30" width="120" /></a>
 </p>
 
-<div align="center">
-![size="40px"](https://giffiles.alphacoders.com/118/118783.gif)
+<div >
+![size="40px" align="center"](https://giffiles.alphacoders.com/118/118783.gif)
 </div>
 
