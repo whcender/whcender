@@ -13,6 +13,6 @@
 </p>
 
 
-![size="40px" align="center"](https://giffiles.alphacoders.com/118/118783.gif)
+![width="40px" align="center"](https://giffiles.alphacoders.com/118/118783.gif)
 
 
