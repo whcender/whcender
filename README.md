@@ -13,8 +13,9 @@
 </p>
 
 
-![width="140px" align="center"](https://giffiles.alphacoders.com/118/118783.gif)
+<br>
+<br>
 
 <div display="flex" justify-content= "center" align-items="center">
-<img width="800px" src="https://giffiles.alphacoders.com/118/118783.gif">
+<img width="1100px" src="https://giffiles.alphacoders.com/118/118783.gif">
 </div>
