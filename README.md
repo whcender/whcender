@@ -16,5 +16,5 @@
 ![width="140px" align="center"](https://giffiles.alphacoders.com/118/118783.gif)
 
 <div display="flex" justify-content= "center" align-items="center">
-<img width="100px" src="https://giffiles.alphacoders.com/118/118783.gif">
+<img width="500px" src="https://giffiles.alphacoders.com/118/118783.gif">
 </div>
