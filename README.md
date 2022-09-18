@@ -17,7 +17,7 @@
 <br>
 
 <div display="flex" align="center" justify-content="center" align-items="center">
-<img width="500px" src="https://giffiles.alphacoders.com/118/118783.gif">
+<img width="500px" src="https://media.makeameme.org/created/use-nodejs.jpg">
 </div>
 
 <br>
