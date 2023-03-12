@@ -1,6 +1,6 @@
 <h3 align="center">A passionate blokchain developer from Turkey 🇹🇷</h3>
 
--  I’m currently using **React js, Node Js AND Solidty**
+-  I’m currently using **React js, Node Js, Next Js, Python and Solidty**
 
 -  How to reach me **fatihasslanss@gmail.com**
 
